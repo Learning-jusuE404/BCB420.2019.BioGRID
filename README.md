@@ -344,7 +344,7 @@ save(BioGridInt, file = file.path(".", "data", "BioGridInt.RData"))
       xlab = "degree (undirected graph)",
       ylab = "Counts")
       ```
-![](./inst/img/BioGridDistribution.png?sanitize=true "BioGRID Interaction distribution") 
+
 
 ```
 
