@@ -353,7 +353,7 @@ save(BioGridInt, file = file.path(".", "data", "BioGridInt.RData"))
 
 
 
-####  7 Annotation of the example gene set
+####  6 Annotation of the example gene set
 
 To conclude, we annotate the example gene set, validate the annotation, and store the data.
 
