@@ -346,7 +346,7 @@ save(BioGridInt, file = file.path(".", "data", "BioGridInt.RData"))
       ```
 ![](./inst/img/BioGridDistribution.png?sanitize=true "BioGRID Interaction distribution") 
 
-
+```
 
 
 &nbsp;
